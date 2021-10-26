@@ -1,0 +1,9 @@
+.btn{
+    cursor: pointer;
+}
+.dev{
+    text-transform: uppercase;
+    text-justify:newspaper;
+    color: darkcyan ;
+
+}
